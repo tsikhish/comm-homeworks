@@ -1,0 +1,5 @@
+C:\Users\Mari\source\repos\homeworkk5\homeworkk5\obj\Debug\net5.0\homeworkk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homeworkk5\homeworkk5\obj\Debug\net5.0\homeworkk5.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homeworkk5\obj\Debug\net5.0\homeworkk5.AssemblyInfo.cs
+C:\Users\Mari\source\repos\homeworkk5\homeworkk5\obj\Debug\net5.0\homeworkk5.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homeworkk5\obj\Debug\net5.0\homeworkk5.sourcelink.json

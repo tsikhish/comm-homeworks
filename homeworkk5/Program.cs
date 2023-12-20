@@ -6,11 +6,12 @@ namespace homework5
     {
         static void Main(string[] args)
         {
+            
             #region Task1
             /*int x = int.Parse(Console.ReadLine());
             if (x%5==0) Console.WriteLine("Yes");
                 else Console.WriteLine("No");*/
-            int x = int.Parse(Console.ReadLine());
+            /*int x = int.Parse(Console.ReadLine());
             var result = x % 5 == 0 ? "Yes"
                 : "No";
             Console.WriteLine(result);
@@ -39,7 +40,6 @@ namespace homework5
             else
             {
                 Console.WriteLine("Not allowed todivide by zero");
-                Console.ForegroundColor
             }
             #endregion
             #region Task3
@@ -51,7 +51,7 @@ namespace homework5
             y = z;
             Console.WriteLine(x);
             Console.WriteLine(y);
-            #endregion
+            #endregion*/
             #region Task4
             int x = int.Parse(Console.ReadLine());
             for (int i = 0; i < 10; i++)
