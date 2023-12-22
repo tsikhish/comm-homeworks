@@ -1,0 +1,16 @@
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.exe
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.deps.json
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.runtimeconfig.json
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.dll
+C:\Users\Mari\source\repos\homeworkk5\homework7\bin\Debug\net5.0\homework7.pdb
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.AssemblyInfo.cs
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.sourcelink.json
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.dll
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\refint\homework7.dll
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.pdb
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\homework7.genruntimeconfig.cache
+C:\Users\Mari\source\repos\homeworkk5\homework7\obj\Debug\net5.0\ref\homework7.dll
