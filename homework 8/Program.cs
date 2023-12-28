@@ -26,7 +26,7 @@ namespace homework8
             List<int> numbers = new List<int>() { 1,2,3,4 };
             List<bool> trueFalse = new List<bool>() { true,true,false,false,false};
             task4(word);*/
-            task5(1234);
+           //task5(1234);
             //task6
             /*int[] arr = { 1, 2, 3, 4 };
             int x = 0;
@@ -51,112 +51,114 @@ namespace homework8
             */
 
 
-        
-        static void task5(int n)
-        {
-            string result = "";
-            int x = 0;
-            if (n / 10 == 0)
+
+            static void task5(int n)
             {
-                Console.WriteLine($"{n%10}");
-            }
-            else
-            {
-                task5(n / 10);
-                Console.WriteLine($"-{n%10}");
-            }
-        }
-        static void task4<T>(List<T> input) {  
-            if(typeof(T) == typeof(string))
-            {
-                foreach(var item in input)
+                string result = "";
+                int x = 0;
+                if (n / 10 == 0)
                 {
-                    Console.WriteLine(item.ToString().ToUpper());
+                    Console.WriteLine($"{n % 10}");
+                }
+                else
+                {
+                    task5(n / 10);
+                    Console.WriteLine($"-{n % 10}");
                 }
             }
-            else if(typeof(T) == typeof(int))
+            static void task4<T>(List<T> input)
             {
-                int sum = 0;
-                foreach(var item in input)
+                if (typeof(T) == typeof(string))
                 {
-                    sum += Convert.ToInt32(item);
-                }
-            }
-            else if(typeof(T) == typeof(bool))
-            {
-                Console.WriteLine($"{input[0]},{input[input.Count - 1]},{input[input.Count/2]}");
-            }
-             }
-        static void task3(string firstWord, string secondWord)
-        {
-            string result = "";
-            if (firstWord.Length >= secondWord.Length)
-            {
-                for (int i = 0; i < secondWord.Length; i++)
-                {
-                    if (secondWord[secondWord.Length - 1 - i] == firstWord[firstWord.Length - 1 - i])
+                    foreach (var item in input)
                     {
-                        result = result + firstWord[firstWord.Length - 1 - i];
+                        Console.WriteLine(item.ToString().ToUpper());
                     }
                 }
-
-            }
-            else
-            {
-                for (int i = 0; i < firstWord.Length; i++)
+                else if (typeof(T) == typeof(int))
                 {
-                    if (secondWord[secondWord.Length - 1 - i] == firstWord[firstWord.Length - 1 - i])
+                    int sum = 0;
+                    foreach (var item in input)
                     {
-                        result = result + firstWord[firstWord.Length - 1 - i];
+                        sum += Convert.ToInt32(item);
+                    }
+                }
+                else if (typeof(T) == typeof(bool))
+                {
+                    Console.WriteLine($"{input[0]},{input[input.Count - 1]},{input[input.Count / 2]}");
+                }
+            }
+            static void task3(string firstWord, string secondWord)
+            {
+                string result = "";
+                if (firstWord.Length >= secondWord.Length)
+                {
+                    for (int i = 0; i < secondWord.Length; i++)
+                    {
+                        if (secondWord[secondWord.Length - 1 - i] == firstWord[firstWord.Length - 1 - i])
+                        {
+                            result = result + firstWord[firstWord.Length - 1 - i];
+                        }
                     }
 
                 }
-            }
-            string finalResult = new string(result.Reverse().ToArray());
-            Console.WriteLine(finalResult);
-
-
-        }
-
-
-        void task2(int n)
-        {
-            int x = 0;
-            List<char> list = new List<char>();
-            for (int i = 0; i < n; i++)
-            {
-                char ch = char.Parse(Console.ReadLine());
-                list.Add(ch);
-            }
-
-            for (int i = 0; i < list.Count; i++)
-            {
-                for (int j = i + 1; j < list.Count; j++)
+                else
                 {
-                    if (list[i] == list[j])
+                    for (int i = 0; i < firstWord.Length; i++)
+                    {
+                        if (secondWord[secondWord.Length - 1 - i] == firstWord[firstWord.Length - 1 - i])
+                        {
+                            result = result + firstWord[firstWord.Length - 1 - i];
+                        }
+
+                    }
+                }
+                string finalResult = new string(result.Reverse().ToArray());
+                Console.WriteLine(finalResult);
+
+
+            }
+
+
+            void task2(int n)
+            {
+                int x = 0;
+                List<char> list = new List<char>();
+                for (int i = 0; i < n; i++)
+                {
+                    char ch = char.Parse(Console.ReadLine());
+                    list.Add(ch);
+                }
+
+                for (int i = 0; i < list.Count; i++)
+                {
+                    for (int j = i + 1; j < list.Count; j++)
+                    {
+                        if (list[i] == list[j])
+                        {
+                            x++;
+                            list.RemoveAt(i);
+                            list.RemoveAt(j);
+                            i--;
+                            break;
+                        }
+                    }
+                }
+                Console.WriteLine(x);
+            }
+            void task1(int a, int b, int n)
+            {
+                int x = 0;
+                for (int i = 0; i < b; i++)
+                {
+                    double result = Math.Pow(i, n);
+                    if (result >= a && result <= b)
                     {
                         x++;
-                        list.RemoveAt(i);
-                        list.RemoveAt(j);
-                        i--;
-                        break;
                     }
                 }
+                Console.WriteLine(x);
             }
-            Console.WriteLine(x);
-        }
-        void task1(int a, int b, int n)
-        {
-            int x = 0;
-            for (int i = 0; i < b; i++)
-            {
-                double result = Math.Pow(i, n);
-                if (result >= a && result <= b)
-                {
-                    x++;
-                }
-            }
-            Console.WriteLine(x);
         }
     }
 }
