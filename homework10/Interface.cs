@@ -12,20 +12,27 @@ namespace homework10
             void CalculateLoanPercent(int month, double AmountPerMonth);
             bool CheckUserHistory();
         }
-        internal class Bank : FinanceOperations
+         public class Bank : FinanceOperations
         {
             public bool CheckUserHistory()
             {
 
                 Random random = new Random();
                 bool randBool = random.Next(2) == 0;
-                return randBool;
+            Console.WriteLine(randBool);
+            return randBool;
 
             }
             public void CalculateLoanPercent(int month, double AmountPerMonth)
             {
-
+                if (CheckUserHistory())
+                {
                 Console.WriteLine($"Bank: {month * AmountPerMonth * 0.05}");
+                }
+                else
+                {
+                    Console.WriteLine("no result");
+                }
 
             }
         }

@@ -14,16 +14,48 @@ namespace homework10
             get => param; set => param = value;
         }
         public override void Read()
-        { Console.WriteLine($"I Can Read to {param} file with max storage {maxStorage}"); }
-
+        {
+            Console.Write("I Can Read from ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(param);
+            Console.ResetColor();
+            Console.Write(" file with max storage ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(maxStorage);
+            Console.ResetColor();
+        }
         public override void Write()
-        { Console.WriteLine($"I Can write to {param} file with max storage {maxStorage}"); }
-
+        {
+            Console.Write("I Can write from ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(param);
+            Console.ResetColor();
+            Console.Write("file with max storage ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(maxStorage);
+            Console.ResetColor();
+        }
         public override void Edit()
-        { Console.WriteLine($"I Can Edit to {param} file with max storage {maxStorage}"); }
-
+        {
+            Console.Write("I Can edit from ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(param);
+            Console.ResetColor();
+            Console.Write(" file with max storage ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(maxStorage);
+            Console.ResetColor();
+        }
         public override void Delete()
-        { Console.WriteLine($"I Can Delete to {param} file with max storage {maxStorage}"); }
-
+        {
+            Console.Write("I Can delete from ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(param);
+            Console.ResetColor();
+            Console.Write(" file with max storage ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(maxStorage);
+            Console.ResetColor();
+        }
     }
 }
