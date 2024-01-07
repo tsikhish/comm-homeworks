@@ -21,18 +21,12 @@ namespace homework10
             #endregion
             #region Task2
             var bank = new Bank();
-            if (bank.CheckUserHistory())
-            {
-                bank.CalculateLoanPercent(12, 10);
-            }
-            else
-            {
-                Console.WriteLine("no result");
-            }
+            bank.CalculateLoanPercent(12, 10);
+
             var microfinance = new MicroFinance();
             microfinance.CalculateLoanPercent(12, 10);
-        
-        #endregion
-    }
+
+            #endregion
+        }
     }
 }

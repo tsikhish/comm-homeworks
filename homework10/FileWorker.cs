@@ -9,7 +9,9 @@ namespace homework10
     abstract class FileWorker
     {
         public int maxStorage { get; set; }
+        
         public abstract string Param { get; set; }
+
         public abstract void Read();
 
         public abstract void Write();
