@@ -1,0 +1,16 @@
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).AssemblyInfo.cs
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).sourcelink.json
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).exe
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).deps.json
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).runtimeconfig.json
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).dll
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\bin\Debug\net5.0\hmwork11(Task2).pdb
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).dll
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\refint\hmwork11(Task2).dll
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).pdb
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\hmwork11(Task2).genruntimeconfig.cache
+C:\Users\Mari\source\repos\homeworkk5\hmwork11(Task2)\obj\Debug\net5.0\ref\hmwork11(Task2).dll

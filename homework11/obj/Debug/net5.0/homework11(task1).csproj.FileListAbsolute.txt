@@ -1,0 +1,16 @@
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).exe
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).deps.json
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).runtimeconfig.json
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).dll
+C:\Users\Mari\source\repos\homeworkk5\homework11\bin\Debug\net5.0\homework11(task1).pdb
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).AssemblyInfo.cs
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).sourcelink.json
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).dll
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\refint\homework11(task1).dll
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).pdb
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\homework11(task1).genruntimeconfig.cache
+C:\Users\Mari\source\repos\homeworkk5\homework11\obj\Debug\net5.0\ref\homework11(task1).dll
