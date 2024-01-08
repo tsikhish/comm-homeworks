@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mkn7XO9NhYmFertwUuSZTIlLsGOVDailpoiio5PgNlHlNwl1EtIYbrBQnCGxg6hmQlYaOFnNHujeEBCTTUFrJQ==",
+  "dgSpecHash": "UBbuz/0/QXvJLdt82pzI5cT49XeXImDVrTNIui2WE5lAXbVwHta5NIhviaPEKyMwjaPXYiFLJYwI/+YEge8j/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mari\\source\\repos\\homeworkk5\\homework9\\homework9.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mari\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
