@@ -14,3 +14,6 @@ C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\refint\hmw
 C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\hmwrk11(Task3).pdb
 C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\hmwrk11(Task3).genruntimeconfig.cache
 C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\ref\hmwrk11(Task3).dll
+C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\hmwrk11(Task3).csproj.AssemblyReference.cache
+C:\Users\Mari\source\repos\homeworkk5\hmwrk11(Task3)\obj\Debug\net5.0\hmwrk11(Task3).csproj.CopyComplete
